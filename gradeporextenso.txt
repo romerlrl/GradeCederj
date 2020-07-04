@@ -1,0 +1,26 @@
+EAD05001¬Introdução à Informática¬80¬não tem¬1¬2¬Intr Inform
+EAD05002¬Construção de Página Web¬40¬não tem¬1¬3¬*
+EAD05003¬Inglês Instrumental¬40¬não tem¬1¬1¬*
+EAD05005¬Projeto e Desenvolvimento de Algoritmos¬80¬não tem¬1¬2¬PDA
+EAD05006¬Álgebra Linear¬80¬não tem¬2¬2¬*
+EAD05004¬Fundamentos de Algoritmos para Computação¬80¬não tem¬2¬2¬FAC
+EAD05010¬Organização de Computadores¬80¬Intr Inform¬2¬3¬OC
+EAD05029¬Fundamentos de Programação¬80¬PDA¬2¬1¬FP
+EAD05007¬Estrutura de Dados¬80¬PDA¬3¬1¬Estr. Dados
+EAD05008¬Matemática para Computação¬80¬FAC¬3¬1¬Mat. Comp.
+EAD05015¬Física para Computação¬80¬não tem¬3¬1¬Fís. Comp.
+EAD05030¬Programação com Interfaces Gráficas¬80¬FP¬3¬2¬*
+EAD05014¬Banco de Dados¬80¬Estr. Dados¬4¬3¬*
+EAD05011¬Modelagem de Informação¬80¬não tem¬4¬2¬Mod. de Inf.
+EAD05012¬Probabilidade e Estatística¬80¬Mat. Comp.¬4¬1¬*
+EAD05016¬Sistemas Operacionais¬80¬OC|Estr. Dados¬4¬2¬Sist Operac.
+EAD05032¬Programação Orientada a Objetos¬80¬FP¬5¬1¬*
+EAD05033¬Análise de Sistemas¬80¬Banco de Dados¬5¬3¬*
+EAD05019¬Engenharia de Software¬80¬Mod. de Inf.¬5¬2¬*
+EAD05020¬Redes de Computadores I¬120¬Sist Operac.|Fís. Comp.¬5¬1¬Redes Comp I
+EAD05031¬Programação de Aplicações Web¬80¬FP|Banco de Dados¬5¬3¬*
+EAD05034¬Arquitetura e Projeto de Sistemas¬80¬Análise de Sistemas¬6¬1¬*
+EAD05023¬Computação Gráfica¬80¬Álgebra Linear|Programação com Interfaces Gráficas¬6¬1¬*
+EAD05024¬Empreendedorismo e Ética Profissional¬80¬não tem¬6¬3¬*
+EAD05025¬Redes de Computadores II¬120¬Redes Comp I¬6¬2¬*
+EAD05026¬Trabalho de Conclusão de Curso¬120¬não tem¬6¬3¬*
